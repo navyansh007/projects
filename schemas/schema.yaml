@@ -22,13 +22,21 @@ starter-files:
     required: true  
     type: string
 type:
-    required: true
-    type: string
-    enum: ['backend', 'frontend','fullstack']   
+    schema:
+        required: true
+        type: string
+        enum: 
+            - backend
+            - frontend
+            - fullstack   
 level: 
-    required: true
-    type: string
-    enum: ['easy', 'medium', 'hard']
+    schema:
+        required: true
+        type: string
+        enum: 
+            - easy
+            - medium
+            - hard
 cover-image:    
     required: true
     type: string
@@ -43,9 +51,13 @@ codedamn:
     type: dict
     schema: 
         helper-learning-path:
-            required: true
-            type: string
-            enum: ['frontend', 'backend', 'fullstack']
+            schema: 
+                required: true
+                type: string
+                enum: 
+                    - backend
+                    - frontend
+                    - fullstack 
         show-community-banner:
             required: true
             type: boolean
@@ -53,7 +65,10 @@ codedamn:
             required: true
             type: string
         playground-image:
-            required: true
-            type: string
-            enum: ['html','ethereum-v1']
-    
+            schema: 
+                required: true
+                type: string
+                enum: 
+                    - html
+                    - ethereum-v1
+        
