@@ -44,7 +44,7 @@ codedamn:
     schema: 
         helper-learning-path:
             required: true
-            type: string
+            # type: string
             enum: [frontend, backend, fullstack]
         show-community-banner:
             required: true
@@ -54,6 +54,6 @@ codedamn:
             type: string
         playground-image:
             required: true
-            type: string
+            # type: string
             enum: [html,ethereum-v1]
     
