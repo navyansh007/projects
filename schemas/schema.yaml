@@ -24,11 +24,11 @@ starter-files:
 type:
     required: true
     type: string
-    enum: [backend, frontend,fullstack]   
+    enum: ['backend', 'frontend','fullstack']   
 level: 
     required: true
     type: string
-    enum: [easy, medium, hard]
+    enum: ['easy', 'medium', 'hard']
 cover-image:    
     required: true
     type: string
@@ -44,8 +44,8 @@ codedamn:
     schema: 
         helper-learning-path:
             required: true
-            # type: string
-            enum: [frontend, backend, fullstack]
+            type: string
+            enum: ['frontend', 'backend', 'fullstack']
         show-community-banner:
             required: true
             type: boolean
@@ -54,6 +54,6 @@ codedamn:
             type: string
         playground-image:
             required: true
-            # type: string
-            enum: [html,ethereum-v1]
+            type: string
+            enum: ['html','ethereum-v1']
     
