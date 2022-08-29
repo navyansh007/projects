@@ -1,0 +1,6 @@
+challenges:
+  - create a `style.css` file and link it to the `index.html` 
+  - create a <div> element with the ID "gallery-container" for all the images 
+  - set the margin of the body to 0 
+  - set the background color of the body to `#242629`
+  

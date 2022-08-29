@@ -1,0 +1,4 @@
+challenges:
+  - create an article tag for each image
+  - add the image tag inside the article tag add the src attribute for the image from the assets folder, you should have 9 <img> tags in total 
+  - add the image description inside the article tag 
