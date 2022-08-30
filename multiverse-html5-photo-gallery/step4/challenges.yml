@@ -1,3 +1,8 @@
-challenges:
-  - the image div should have the x param 
-  - challenge numberr 2 
+name: "Building the footer"
+stepId: step4
+stepBreakDown:
+  - text: "create a `style.css` file and link it to the `index.html` "
+  - text: "create a <div> element with the ID 'gallery-container' for all the images"
+  - text: "set the margin of the body to 0 "
+  - text: "set the background color of the body to `#242629`"
+optimalSolutionPreview: "https://project-preview.com"

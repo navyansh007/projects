@@ -1,6 +1,9 @@
-challenges:
-  - create a `style.css` file and link it to the `index.html` 
-  - create a <div> element with the ID "gallery-container" for all the images 
-  - set the margin of the body to 0 
-  - set the background color of the body to `#242629`
-  
+name: "Boilerplate Code"
+stepId: step1
+stepBreakDown:
+  - text: "make sure that the boilerplate code for the HTML file is syntactically correct"
+  - text: "create a <div> element with the ID 'gallery-container'"
+  - text: "create a `style.css` file and link it to the `index.html` "
+  - text: "add the reset CSS properties as listed in Instructions"
+  - text: "set the background color of the body to `#242629`"
+optimalSolutionPreview: "https://project-preview.com"

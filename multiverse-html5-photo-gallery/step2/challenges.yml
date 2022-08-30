@@ -1,4 +1,7 @@
-challenges:
-  - create an article tag for each image
-  - add the image tag inside the article tag add the src attribute for the image from the assets folder, you should have 9 <img> tags in total 
-  - add the image description inside the article tag 
+name: "Step 2"
+stepId: step2
+stepBreakDown:
+  - text: "create an article tag for each image"
+  - text: "add the image tag inside the article tag add the src attribute for the image from the assets folder, you should have 9 <img> tags in total"
+  - text: "add the image description text in a span tag which will be sibling to the img tag"
+optimalSolutionPreview: "https://project-preview.com"
