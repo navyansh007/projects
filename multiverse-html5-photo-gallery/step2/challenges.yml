@@ -1,7 +1,7 @@
-name: "Step 2"
+name: "Building HTML Structure"
 stepId: step2
 stepBreakDown:
-  - text: "create an article tag for each image"
-  - text: "add the image tag inside the article tag add the src attribute for the image from the assets folder, you should have 9 <img> tags in total"
-  - text: "add the image description text in a span tag which will be sibling to the img tag"
-optimalSolutionPreview: "https://project-preview.com"
+  - text: "Create an `<article>` tag for each image and add the class name `img-container`. There are 9 images in total in the gallery. So create 9 `<article>` tags."
+  - text: "Create an `img` tag and a `<span>` tag inside each `<article>` element add the class name `gallery-image` for image tag and add the class name `title` to each `<span>` tag."
+  - text: "Add the `src` attribute to the `img` tag and set it to the image path. The images can be found at `assets` folder"
+  - text: "Add dummy text to the `<span>` tag. You can make use of lorem generator to generate dummy text."

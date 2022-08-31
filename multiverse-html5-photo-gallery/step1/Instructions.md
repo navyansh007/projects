@@ -41,6 +41,9 @@ In this step you are tasked to create a new `style.css` file and link it with th
         box-sizing: border-box;
     }
     ```
+
+    `margin`, `padding` and `box-sizing` are the CSS properties that are used to set the spacing between the elements of the HTML document.
+
     By settings this values globally to all the elements this removes the different pre-defined (which are set by browsers) margins and paddings of the elements and makes the styling of the elements easier.
 
 5. Set the `background-color` of the `body` element to `#242629`.
@@ -55,3 +58,5 @@ In this step you are tasked to create a new `style.css` file and link it with th
    * the first two digits `24` represent the intensity of red
    * the next two digits `26` represent the intensity of Green 
    * the last two digits `29` represent the intensity of Blue
+
+Now that we setup the basic boilerplate code and linked the `style.css` file with the `index.html` file, let's move on to the next step and create the HTML 
