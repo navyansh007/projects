@@ -1,4 +1,6 @@
 name: "Building "
 stepId: step3
 stepBreakDown:
-  -text: ""
+  - text: "Make the `#gallery-container` a flex container"
+  - text: "Set position of `.img-container` to relative"
+  - text: ""
