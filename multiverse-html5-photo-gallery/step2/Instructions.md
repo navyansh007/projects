@@ -24,7 +24,7 @@ Here the `>` means the child of the parent, the `+` means the sibling of the pre
    </article>
    ```
 
-   This represents the HTML structure for 1 image. Do this for 8 other images as well.
+   This represents the HTML structure for 1 image. Do this for 11 other images as well.
 
 3. Set the `src` attribute of each individual `<img>`:
 
@@ -45,7 +45,7 @@ Here the `>` means the child of the parent, the `+` means the sibling of the pre
 It can seem daunting to write the HTML structure for the gallery project, well it is not. You can always make use of `emmet` to create a complex HTML structure with a single line of code.
 
 ```
-article.img-container*9>img.gallery-image[src=assets/0$.jpg]+span.title>lorem3
+article.img-container*12>img.gallery-image[src=assets/$.jpg]+span.title>lorem3
 ```
 
 You can use this structure to create the same HTML Structure that we have written manually. You can learn more about `emmet` [here](https://docs.emmet.io/abbreviations/syntax/).
