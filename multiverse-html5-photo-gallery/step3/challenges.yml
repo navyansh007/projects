@@ -1,4 +1,4 @@
-name: "Building "
+name: "Adding Styles"
 stepId: step3
 stepBreakDown:
   - text: "Make the `#gallery-container` a flex container and set flex-wrap to wrap"

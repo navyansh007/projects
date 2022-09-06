@@ -1,5 +1,3 @@
-# Instructions
-
 Let's start adding styles to our page.
 
 Flexbox layout is a best way to arrange elements in a flexible way on a single direction. It is a great way to organize your page and make it responsive across all viewports.
