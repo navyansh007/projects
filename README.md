@@ -126,7 +126,7 @@ You can contribute to this repository by adding your own projects or by adding n
 
 	//TODO: Add IMAGE
 
-    - `playground-image` : This field is used to determine the docket image that is required to the boot the playground in. The possible values are 
+    - `playground-image` : This field is used to determine the docker image that is required to the boot the playground in. The possible values are 
 	
 		* `html` - HTML / CSS / JavaScript / React / Next.js / Vue 
 
