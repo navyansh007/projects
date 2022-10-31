@@ -6,6 +6,8 @@ During Hacktoberfest, submit an interactive project to this repository and get a
 
 ## How to participate? (read carefully)
 
+If you want to watch a step-by-step video on how to contribute, check out this video: [https://www.youtube.com/watch?v=a65Qaycbb0k](https://www.youtube.com/watch?v=a65Qaycbb0k)
+
 In order to participate and win prizes, you have to submit a **guided project**. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE. Check out this [example guided project](https://codedamn.com/project/multiverse-html5-photo-gallery). Steps on how to do that is below.
 
 ### 1. Getting your boilerplate code ready
@@ -14,7 +16,7 @@ In order to participate and win prizes, you have to submit a **guided project**.
 
 2. Create a fresh folder structure for your project and keep the **required boilerplate code only**. Make sure to add all the assets related to the project. It is recommended to put all your assets in the `/assets` folder itself.
 
-3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/cdmrc) to setup the `.cdmrc` file.
+3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/docs/concepts/cdmrc) to setup the `.cdmrc` file.
 
 4. Create a new GitHub repository for the Project and keep the link with you, you'll use it in the next step.
 
